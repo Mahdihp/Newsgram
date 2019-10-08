@@ -1,0 +1,24 @@
+{
+  "debug": true,
+  "server": {
+    "host": "127.0.0.1",
+    "port": "8000"
+  },
+  "context": {
+    "timeout": 2
+  },
+  "database": {
+    "host": "192.168.200.253",
+    "type": "mysql",
+    "port": "3306",
+    "user": "yasini",
+    "pass": "cTFz@r4FnD",
+    "dbname": "newsgram"
+  },
+  "accountnumber": {
+    "base": 1000001000,
+    "year": 1398,
+    "min": 0,
+    "sec": 0
+  }
+}
